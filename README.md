@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinicius L. Viana</h1>
+<h1 align="center">Hi 👋, I'm Vinicius L. </h1>
 <h3 align="center">A developer that wants to participate in the full developmente cycle of a product and because of that is always learning new things.</h3>
 
 - 🔭 I’m currently working on **Booksfeelings**
