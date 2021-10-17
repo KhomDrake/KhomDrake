@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius L. Viana </h1>
-<h3 align="center">A developer that wants to participate in the full development cycle of a product and because of that is always learning new things.</h3>
+<h3 align="center">A developer who wants to participate in the entire development cycle of a product and therefore is always learning new things.</h3>
 
 <div align="center">
   <a href="https://github.com/KhomDrake">
