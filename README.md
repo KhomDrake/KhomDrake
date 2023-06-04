@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhomDrake&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-- 🔭 I’m currently working on **Booksfeelings**
+- 🔭 I’m currently working on **The Movie Db 3.0**
 
 - 🌱 I’m currently learning **Django**
 
